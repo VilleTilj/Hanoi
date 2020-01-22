@@ -1,0 +1,23 @@
+Student: Ville Tiljander, 274523, ville.tiljander@tuni.fi
+
+Hanoi game instructions:
+
+Game is a simple mathematical game that has 3 poles and movable disks. When starting a new game you can enter between 2 to 8 poles to play with. There are few simple rules. 
+
+	1. Only one disk can be moved at a time.
+	2. You can only move the most upper disk in a pole.
+	3. No larger disk may be placed on top of a smaller disk.
+	4. Game can be won if all the disks are on the middle pole.
+
+After starting a new game (by pressing the button on the window or pressing 'r' button on your keyboard) you can move disks by pressing the three buttons in the game window or pressing 'asd' buttons. Button 'a' is for the most left pole, 'b' is for the middle pole and 'd' is for the right pole.
+
+Pressing once selects a pole from you want to move a disk and pressing next button either moves disk to another pole if possible and if pressing the same poles button again disables selection. 
+
+Additional features:
+
+1. Every pole has different color and the color of disks changes when moving to another pole.
+
+2. The time of a game is shown when playing the game and it can be viewed after game is won.
+
+3. Another method to move the disks. First is with the buttons on the game window and the second is keyboard buttons 'asd'.
+
